@@ -5,7 +5,7 @@
 
 **Description**
 <p>
-This service will help “Amchi Dukan” maintain the product catalog and its inventory. As an admin, I will be able to introduce new products or remove existing products from Dukan’s catalog. 
+This service will help “Amchi Dukan” maintain the product catalog. As an admin, I will be able to introduce new products or remove existing products from Dukan’s catalog. 
 
 The inventory of this service will help us in maintaining the current inventory status where at any given time I should be able to retrieve what is the count of any given product
 </p>
@@ -18,10 +18,4 @@ The inventory of this service will help us in maintaining the current inventory 
   
  • Update existing product – Should be able to update the existing metadata of any product in my catalog. 
    For example – Update Title, Image url, Description, Specification (Eg – weight and country origin), price.
-    
- • Inventory update – Should be able to update the current inventory status. I.e
-    -	Admin can update New/Existing product status.
-    -	Update inventory based on item purchase. 
-
- • Inventory Search – Given a product name/category, I should be able to get all items in my inventory
 ```
