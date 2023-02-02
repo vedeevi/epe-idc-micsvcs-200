@@ -12,9 +12,7 @@ The inventory service will help us in maintaining the current inventory status w
 
 **Expectations**
 ```
- • Inventory update – Should be able to update the current inventory status. I.e
-    -	Admin can update New/Existing product status.
-    -	Update inventory based on item purchase. 
+ • Inventory update – Should be able to update the current inventory status. 
 
  • Inventory Search – Given a product name/category, I should be able to get all items in my inventory
 ```
