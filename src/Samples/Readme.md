@@ -1,0 +1,1 @@
+This folder will contain all the sample applications written in different technologies about how to expose our applications as Microservices.
