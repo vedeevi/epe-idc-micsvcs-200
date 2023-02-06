@@ -5,7 +5,7 @@
 
 **Description**
 <p>
-This service will be responsible for all basic user activities. 
+This service will be responsible for all basic user activities like register, login, logout etc . 
 </p>
 
 **Expectations**
