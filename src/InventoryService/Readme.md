@@ -8,6 +8,8 @@
 This service will help “Amchi Dukan” maintain the product inventory. 
 
 The inventory service will help us in maintaining the current inventory status where at any given time I should be able to retrieve what is the count of any given product
+
+It is also supposed to handle the product search feature
 </p>
 
 **Expectations**
