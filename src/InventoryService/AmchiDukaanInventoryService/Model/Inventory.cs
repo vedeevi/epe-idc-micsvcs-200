@@ -2,8 +2,8 @@
 {
     public class Inventory
     {
-        public Guid inventoryId { get; set; }
+        public string inventoryId { get; set; }
 
-        private string location;
+        public string location { get; set; }
     }
 }
