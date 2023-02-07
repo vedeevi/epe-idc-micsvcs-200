@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Work\\Projects\\ML200\\epe-idc-micsvcs-200\\src\\InventoryService\\AmchiDukaanInventoryService\\AmchiDukaanInventoryService.csproj": {}
+  },
+  "projects": {
+    "C:\\Work\\Projects\\ML200\\epe-idc-micsvcs-200\\src\\InventoryService\\AmchiDukaanInventoryService\\AmchiDukaanInventoryService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Work\\Projects\\ML200\\epe-idc-micsvcs-200\\src\\InventoryService\\AmchiDukaanInventoryService\\AmchiDukaanInventoryService.csproj",
+        "projectName": "AmchiDukaanInventoryService",
+        "projectPath": "C:\\Work\\Projects\\ML200\\epe-idc-micsvcs-200\\src\\InventoryService\\AmchiDukaanInventoryService\\AmchiDukaanInventoryService.csproj",
+        "packagesPath": "C:\\Users\\kumarrag\\.nuget\\packages\\",
+        "outputPath": "C:\\Work\\Projects\\ML200\\epe-idc-micsvcs-200\\src\\InventoryService\\AmchiDukaanInventoryService\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kumarrag\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\kumarrag\\Downloads": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://o365exchange.visualstudio.com/O365%20Core/_packaging?_a=package&feed=Common%40Local&package=Microsoft.Graph.Connectors.SDK&protocolType=NuGet&version=0.0.2-alpha": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
