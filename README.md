@@ -18,9 +18,10 @@
 </p>
 
 **How to expose your API(s)?**
+
 For exposing your API from local devices use **ngrok** tool, following is the documentation link https://ngrok.com/docs/getting-started
 
-Command example
+**'ngrok' command example**
 ```
 Syntax :
 ngrok http https://localhost:<port number> --host-header=localhost:<port number>
