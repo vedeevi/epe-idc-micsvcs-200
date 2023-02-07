@@ -16,3 +16,15 @@
 <p align="center">
   <img src="arch.png" height="400" width="850" title="hover text">
 </p>
+
+**How to expose your API(s)?**
+For exposing your API from local devices use **ngrok** tool, following is the documentation link https://ngrok.com/docs/getting-started
+
+Command example
+```
+Syntax :
+ngrok http https://localhost:<port number> --host-header=localhost:<port number>
+
+Example:
+ngrok http https://localhost:44343 --host-header=localhost:44343
+```
